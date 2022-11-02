@@ -1,12 +1,34 @@
 # Spring Boot Toy Project
 블로그 구현 프로젝트
 
-## 실행환경
-- Window10
-- Java17
-- Eclipse
-- H2 DB
-- Maven
+## ⚙ 프로젝트 개발 환경
+- 통합개발환경 : Eclipse
+- JDK 버전 : JDK 17
+- 스프링부트 버전 : 2.7.1
+- 사용 DB : H2
+- 빌드툴 : Maven
+- 관리툴 : Git, Github
+
+## ⚒ 기술 스택
+- Backend
+    - Spring Boot
+    - Spring Security
+    - Spring Devtools
+    - Spring Data Jpa
+    - Lombok
+
+
+- Frontend
+    - JSP
+    - JSTL
+    - Jasper
+    - Bootstrap
+    - Jquery
+    - Spring Security Taglibs
+
+
+- Database
+    - H2
 
 ---
 
